@@ -93,7 +93,7 @@ function Dashboard() {
           alignItems: 'center',
           marginLeft: 8
         }}>
-          📊 <span style={{ marginLeft: 8 }}>Boards</span>
+          <span style={{ marginLeft: 8 }}>Boards</span>
         </button>
         <button style={{
           background: 'transparent',
@@ -105,7 +105,7 @@ function Dashboard() {
           alignItems: 'center',
           marginLeft: 8
         }}>
-          👥 <span style={{ marginLeft: 8 }}>All Members</span>
+          <span style={{ marginLeft: 8 }}>All Members</span>
         </button>
       </div>
       {/* Main content */}
