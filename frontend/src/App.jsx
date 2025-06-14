@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
-import SignIn from './pages/signIn'
-import Dashboard from './pages/dashboard'
+import SignIn from './pages/SignIn'
+import Dashboard from './pages/Dashboard'
 import BoardDetail from './pages/BoardDetail';
 import CardDetail from './pages/CardDetail';
 import Profile from './pages/Profile';
